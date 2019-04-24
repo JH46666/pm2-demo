@@ -1,0 +1,10 @@
+{
+    "name": "app",
+    "script": "app.js",
+    "log_date_formate": "YYYY-MM-DD HH:mm Z",
+    "out_file": "log/node-app.stdout.log",
+    "watch": true,
+    "log": "./combined.outerr.log",
+    "exec_mode": "cluster",
+    "instances": "max"
+}
